@@ -1,0 +1,14 @@
+# Core
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data
+pandas>=2.0.0
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Reddit
+praw>=7.7.0
+
+# Utilities
+ipykernel>=6.0.0
