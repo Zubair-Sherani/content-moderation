@@ -10,5 +10,8 @@ notebook>=7.0.0
 # Reddit
 praw>=7.7.0
 
+# Language detection
+langdetect>=1.0.9
+
 # Utilities
 ipykernel>=6.0.0
